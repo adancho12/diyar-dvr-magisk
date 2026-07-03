@@ -4,3 +4,5 @@
 - Добавлен updateJson
 - APK и native bin остаются внутри модуля
 - hu_dvr/bin/.real сохранён
+- Убран кнопка Reset Video
+- Изменен подход к записи на mp4
