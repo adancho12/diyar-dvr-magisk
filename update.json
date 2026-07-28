@@ -1,6 +1,6 @@
 {
-  "version": "phase26-v8.8ib-test5.28-live-usb-storage-update",
-  "versionCode": 2646,
-  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v2646/diyar_dvr23i_phase26_v8.8ib_test5.28_live_usb_storage_update.zip",
+  "version": "phase26-v8.8ib-test5.30-resource-class-fix",
+  "versionCode": 2648,
+  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v2648/diyar_dvr23i_phase26_v8.8ib_test5.30_resource_class_fix.zip",
   "changelog": "https://raw.githubusercontent.com/adancho12/diyar-dvr-magisk/main/changelog.md"
 }
