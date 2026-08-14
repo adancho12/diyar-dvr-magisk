@@ -1,6 +1,6 @@
 {
-  "version": "phase26-v8.8ib-test5.43",
-  "versionCode": 2663,
-  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v2663/diyar_dvr23i_phase26_v8.8ib_test5.43_ready_patch.zip",
+  "version": "phase26-v8.8ib-test5.44-flash-test",
+  "versionCode": 2664,
+  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v2664/diyar_dvr23i_phase26_v8.8ib_test5.44_flash_test_fix.zip",
   "changelog": "https://raw.githubusercontent.com/adancho12/diyar-dvr-magisk/main/changelog.md"
 }
