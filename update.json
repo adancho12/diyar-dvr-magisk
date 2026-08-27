@@ -1,6 +1,6 @@
 {
-  "version": "phase26-v8.8ib-test5.56-m8",
-  "versionCode": 2730,
-  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v2730/diyar_dvr23i_phase26_v8.8ib_test5.56_m8_apk_runtime_supervisor.zip",
+  "version": "phase26-v8.8ib-test5.61-m12",
+  "versionCode": 2735,
+  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v2730/diyar_dvr23i_phase26_v8.8ib_test5.61_m12_m8_native_restore.zip",
   "changelog": "https://raw.githubusercontent.com/adancho12/diyar-dvr-magisk/main/changelog.md"
 }
