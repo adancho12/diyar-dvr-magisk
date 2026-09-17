@@ -1,6 +1,6 @@
 {
-  "version": "phase26-v8.8ib-test6.11-m13.31-25fps-mdp-native-maps",
-  "versionCode": 3061,
-  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v3061/diyar_dvr_test6.11_m13_31_stable_license.zip",
+  "version": "v 6.12",
+  "versionCode": 3062,
+  "zipUrl": "https://github.com/adancho12/diyar-dvr-magisk/releases/download/v3062/diyar_dvr_v6.12_m13_32_fleet_live.zip",
   "changelog": "https://raw.githubusercontent.com/adancho12/diyar-dvr-magisk/main/changelog.md"
 }
